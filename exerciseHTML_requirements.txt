@@ -1,0 +1,87 @@
+Task 1 - About Me
+
+Create a folder on your machine and call it HTMLexercise (no spaces).
+	=> Step01: Open File Explore  => Done!✔❤⛵
+	=> Step02: Create Folder HTMLexercise in (C:\Users\student\) => Done!✔❤⛵
+
+Open the newly created folder in you VS Code.
+	=> Step03: Open VS Code => Done!✔❤⛵
+	=> Step04: Open Folder HTMLexercise => Done!✔❤⛵
+
+Create a new file using VS Code,  you can name it AboutMe.html . Don't forget the extension html.
+	=> Step05: Create New File => Done!✔❤⛵
+	=> Step06: Define name New File - AboutMe.html => Done!✔❤⛵	
+
+Using VS Code generate the html skeleton page.
+	=> Step07: Create template html:5 (generate the html skeleton) => Done!✔❤⛵
+
+Change the <title> to 'About me'. 
+	=> Step08: Change the tag <title> to 'About Me' => Done!✔❤⛵
+
+Create a page about yourself - use heading tag, paragraph, and semantic tags to structure your page.
+	=> Step09: use Heading tag => Done!✔❤⛵
+	=> Step10: use paragraph => Done!✔❤⛵
+	=> Step11: use semantic tag => Done!✔❤⛵
+
+Within the HTMLexercise folder create a subfolder called images.  Place some pictures into this folder, either your own pictures or some images downloaded from the internet.
+	=> Step12: Create Folder images in (C:\Users\student\HTMLexercise) => Done!✔❤⛵	
+	=> Step13: Search some images in Google => Done!✔❤⛵
+	=> Step14: Make Download the images => Done!✔❤⛵
+	=> Step14: save images in (C:\Users\student\HTMLexercise\images) => Done!✔❤⛵
+
+Use the saved images in your page.
+	=> Step15: add img tag in my page  => Done!✔❤⛵ 
+
+Reminder 1: Save your html file before checking the result!
+	=> Checked => Done!✔❤⛵
+
+Reminder 2: Open your file in the browser and check frequently that the changes you’re making in the code are correctly reflected in the browser.
+	=> Checked => Done!✔❤⛵
+
+Reminder 3: There are no styles applied to your html page so it may not look its best yet.
+	=> Okay => Done!✔❤⛵
+	
+
+Task 2 - Favourites
+Similarly to the point 3 above, create a new html file called Favourites.html . Let VS Code generate the skeleton html code. Don’t forget to change the title.
+	=> Step01: Create New File => Done!✔❤⛵
+	=> Step02: Define name New File - Favourites.html => Done!✔❤⛵
+	=> Step03: Create template html:5 (generate the html skeleton) => Done!✔❤⛵
+	=> Step04: Change the tag <title> to 'Favourites' => Done!✔❤⛵
+
+Create a table in this page and write down at least three of your favourite things. Don’t forget to include a picture and a link for a reference!
+	=> Step05: Create table with tags <table>, <tr>, <th> and <td> => Done!✔❤⛵
+
+Add a footer to this page with copyright information.
+	=> Step06: Create tag <footer> => Done!✔❤⛵
+ 
+Task 3 - To-do List
+Create yet another html file called ToDoList.html.
+	=> Step01: Create New File => Done!✔❤⛵
+	=> Step02: Define name New File - ToDoList.html => Done!✔❤⛵
+	=> Step03: Create template html:5 (generate the html skeleton) => Done!✔❤⛵
+	=> Step04: Change the tag <title> to 'To Do List' => Done!✔❤⛵
+
+This page should contain a to-do list, it can either be a list of things to do, or a list of books to read, or a list of movies to watch, destinations to visit …
+	=> Step05: Create List of ToDoList => Done!✔❤⛵
+
+Task 4 - Navigation
+Back in AboutMe.html create an unordered list of clickable links.
+	=> Step01: Create Links between pages => Done!✔❤⛵
+
+The first link should lead to your Favourites.html page.
+	=> Step02: Create Links between pages => Done!✔❤⛵
+
+The second link should point to your ToDoList.html page.
+	=> Step03: Create Links between pages => Done!✔❤⛵
+
+Similarly, in your Favourites.html page create links to your AboutMe.html and ToDoList.html.
+	=> Step04: Create Links between pages => Done!✔❤⛵
+
+Do the same in ToDoList.html. 
+	 => Step05: Create Links between pages => Done!✔❤⛵
+
+ 
+
+ 
+

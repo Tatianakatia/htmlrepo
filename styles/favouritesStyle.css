@@ -1,0 +1,14 @@
+a{
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: rgb(164, 14, 39);
+}
+img{
+    border-radius: 2rem;
+    height: 10rem;
+}
+table, th, tr, td {
+    border: 0.3rem solid rgba(156, 213, 236, 0.521);
+}

@@ -1,0 +1,31 @@
+03 - CSS - Exercise 2
+
+
+In this exercise we will apply styles to the html pages you created in Exercise 1. Do not worry if you have not finished everything, you can either finish your html code or start with styling. Read all the instructions first before you decide what you want to do!
+
+In HTMLexercise folder create a new folder called styles. Within this new folder create one stylesheet file per html page -i.e. AboutMeStyles.css, FavouritesStyles.css, ToDoListStyles.css .
+	=> step01: create new folder styles (C:\Users\student\HTMLexercise\)
+Style your pages the way you like! you can change the background, font, colours, sizes…
+	=> step02: insert the link all pages (AboutMe.html, Favourites.html, ToDoList.html) to acess the styles's files.
+	=> step02: apply style background
+	=> step03: apply style font
+	=> step04: apply colours
+	=> step05: apply sizes 
+
+Use Bootstrap to make your life easier.
+	=> step06: use Bootstrap
+
+
+If you see that some styles are repeated, create a new stylesheet file and put the styles there. Include this new file wherever you need these styles.
+	=> step07: create a file global.css
+	=> step08: create a file favouritesStyle.css
+	=> step09: create a file aboutmeStyle.css
+	=> step10: create a file todolistStyle.css
+
+Don’t hesitate to get inspired online!
+
+Reminder: To include an external stylesheet into your html page, place this tag inside the <head>
+
+<link href="styles.css" rel="stylesheet" types="text/css" />
+
+Make sure you change the name and location of your css file.

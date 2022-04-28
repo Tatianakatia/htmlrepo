@@ -1,0 +1,67 @@
+Task 1 - Creating files and directories
+Open GitBash
+✔Done💖⛵
+
+Using the pwd command identify the directory you're currently pointing to.
+
+Create a directory called myDirectory using the mkdir command.
+✔Done💖⛵
+
+Navigate into the newly created directory.
+✔Done💖⛵
+
+Create another directory called . Navigate into this directory.
+✔Done💖⛵
+
+Create two files - file1.txt and file2.txt with touch command .
+✔Done💖⛵
+
+Your file structure should look like this
+
+✔Done💖⛵
+ 
+
+Navigate into the myDirectory directory.
+✔Done💖⛵
+Navigate into your home folder (hint ~).
+✔Done💖⛵
+
+Task 2 - Modifying files using vi
+Open GitBash if it’s closed and navigate into mySecondDirectory folder.
+
+Display the content of the folder.
+✔Done💖⛵
+
+Open file1.txt using vi: vi file1.txt
+✔Done💖⛵
+
+Press i on your keyboard - now you're in insert mode. 
+✔Done💖⛵
+
+On the first line type “hello world!”. On the second line type “I’m using vi”.
+✔Done💖⛵
+
+Return from edit mode by pressing Esc.
+✔Done💖⛵
+
+Type :wq which will be displayed at the very bottom of the page and press Enter.
+✔Done💖⛵
+ 
+
+Check that your file has been modified either by doing vi file1.txt again or using cat file1.txt. cat stands for concatenate and it means that the content of the file will be displayed directly in your shell.
+✔Done💖⛵
+
+Task 3 - Removing files and directories
+Open GitBash if it’s closed and navigate into mySecondDirectory folder.
+✔Done💖⛵
+
+Remove file2.txt file from the mySecondDirectory folder.
+✔Done💖⛵
+
+Navigate into the directory that contains the myDirectory folder.
+✔Done💖⛵
+Remove the myDirectory folder with all its content.
+✔Done💖⛵
+ 
+
+No labels
